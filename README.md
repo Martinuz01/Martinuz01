@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Martinuz01
 - 👀 I’m interested in IT stuff
-- 🌱 I’m currently learning Python and ICT Infrastructure
+- 🌱 I’m currently learning Python and IT Infrastructure
 
 
 <!---
